@@ -1,0 +1,16 @@
+
+
+
+#name-of-school {
+    font-weight: bold;
+}
+
+#graduate-year {
+    display: flex;
+    text-align: justify;
+}
+
+#gpa {
+    display: flex;
+    align-items: top-right;
+}
